@@ -1,0 +1,38 @@
+/*HEADER*/
+header {
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+}
+
+/*MAIN*/
+main {
+    display: flex;
+    justify-content: center;
+    width: available;
+    padding: 30px;
+}
+
+table {
+    background-color: #00bb00;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+td {
+    height: 60px;
+    width: 60px;
+    border-radius: 40px;
+}
+
+.empty {
+    background-color: #00ff00
+}
+
+.black {
+    background-color: #000000
+}
+
+.white {
+    background-color: #ffffff
+}
